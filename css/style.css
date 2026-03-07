@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #cdc7af;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -34,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #B33434; /* Red */
+    color: #ff79cc; 
     font-family: "Lora";
     font-weight: bold;
     font-size: large;
@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 .selected {
-    color: #B33434; /* Red */
+    color: #ff79cc; 
     font-family: "Lora";
     font-weight: bolder;
     font-size: large;
