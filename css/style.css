@@ -16,7 +16,7 @@ h2 {
 
 nav {
     height: 75px;
-    background-color: #ffffff00;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
